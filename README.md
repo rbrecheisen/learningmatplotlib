@@ -14,3 +14,6 @@ Run the following commands in your terminal:
 
 Environment "learningmatplotlib" is in:
 - C:\Users\r.brecheisen\AppData\Local\miniforge3\envs\learningmatplotlib (Windows)
+
+## Where was I?
+https://matplotlib.org/stable/users/explain/quick_start.html#axes-labels-and-text
