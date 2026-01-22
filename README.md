@@ -9,7 +9,7 @@ Make sure to add the tools to PATH.
 Run the following commands in your terminal:
 - mamba create -n learningmatplotlib python=3.11
 - mamba activate learningmatplotlib
-- mamba install -c conda-forge numpy pandas opencv pytest pyinstaller matplotlib
+- mamba install -c conda-forge numpy pandas opencv pytest pyinstaller matplotlib pyside6
 - mamba install -c pytorch -c nvidia pytorch torchvision torchaudio pytorch-cuda=12.1
 
 Note: pytorch-cuda=12.1 does not seem to exist for MacOS
