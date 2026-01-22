@@ -12,6 +12,8 @@ Run the following commands in your terminal:
 - mamba install -c conda-forge numpy pandas opencv pytest pyinstaller matplotlib
 - mamba install -c pytorch -c nvidia pytorch torchvision torchaudio pytorch-cuda=12.1
 
+Note: pytorch-cuda=12.1 does not seem to exist for MacOS
+
 Environment "learningmatplotlib" is in:
 - C:\Users\r.brecheisen\AppData\Local\miniforge3\envs\learningmatplotlib (Windows)
 
